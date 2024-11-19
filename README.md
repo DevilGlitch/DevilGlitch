@@ -1,4 +1,5 @@
 # 👋 Hi, I’m @DevilGlitch
+aka XVIII
  
 ## 👀 I’m interested in 
 
@@ -14,15 +15,15 @@
     - HTML
     - Python
     - Java
+    - C++
     - CSS
     - JS
 
 ## 💞️ I’m down to collaborate on basically anything
   
 ## 📫 How to reach me ...
-
-    > Email:    dream_gear_studios@outlook.com
-    > Discord:  Just_A_Mangled_Corpse.exe#458
+    > Discord: a.straycat
+    > Old Discord:  Just_A_Mangled_Corpse.exe#4582
   > Might add more later.... 
 
 
