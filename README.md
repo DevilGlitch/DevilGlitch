@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @DevilGlitch
-aka XVIII
+aka XVIII aka TheLostMoonXVIII
  
 ## 👀 I’m interested in 
 
