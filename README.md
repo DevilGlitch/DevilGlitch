@@ -3,7 +3,6 @@ aka XVIII aka TheLostMoonXVIII
  
 ## 👀 I’m interested in 
 
-    > Hacking
     > Virtual machines
     > Website link exploits
     > Privacy improving
